@@ -1,0 +1,2 @@
+# go
+just fun
